@@ -1,11 +1,11 @@
 """
-09/11/2020
+07.10.2024
 
 Dasturlash asoslari
 
 #06-dars: Sonlar
 
-Muallif: Anvar Narzullaev
+Muallif: Baxodirov Javlonbek
 
 Web sahifa: https://python.sariq.dev
 """
